@@ -1,0 +1,4 @@
+interface:
+  display_name: "Idea to Implementation"
+  short_description: "Grill, spec, build, and close out ideas."
+  default_prompt: "I have an idea. Run it through the idea-to-implementation pipeline."
