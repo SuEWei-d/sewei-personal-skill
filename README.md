@@ -1,5 +1,7 @@
 # sewei-personal-skill
 
+我的 skill 仓库。
+
 Personal Codex skills repository for storing, versioning, and sharing reusable skills.
 
 ## Structure
